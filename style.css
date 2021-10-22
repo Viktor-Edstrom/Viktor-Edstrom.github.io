@@ -1,0 +1,42 @@
+
+h1 {
+     color: rgb(193, 193, 255);
+     background-color: black;
+     font-size: 40px;
+     text-align: center;
+}
+h3 {
+   color: rgb(193, 193, 255);
+   text-align: center;
+   background-color: black;
+}
+p {
+    color: black;
+    text-align: center;
+    line-height: 17px;
+    border: black 2px;
+}
+
+a {
+    color: rgb(193, 193, 255);
+    font-size: 30px;
+}   
+.blå{
+    background-color: rgb(172, 172, 172);
+
+}  
+
+
+
+img{
+    position: absolute; left:600px; top: 100px;
+
+}
+
+
+div.bild{
+position: absolute; left: -270px; top: -20px;
+
+}
+
+
